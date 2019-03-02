@@ -5,7 +5,7 @@ const NumberButton = props => <button className={`btn baby-btn ${props.extraStyl
 
 
  NumberButton.defaultProps = {
-    name: '0'
+    name: ''
 }
 
  export default NumberButton;
