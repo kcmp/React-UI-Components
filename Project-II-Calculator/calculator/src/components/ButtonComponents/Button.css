@@ -4,20 +4,24 @@
     background-color: #F0F2EF;
 }
 
- .baby-btn {
+.baby-btn {
     width: 25%;
 
  }
 
- .big-btn {
+.big-btn {
     width: 75%;
 }
 
- .blueBtn {
-    background-color: #087CA7;
+.redBtn {
+    background-color: #C60000;
     color: #FFF;
 }
 
- button:focus {
+button:focus {
     outline: none;
+}
+
+button {
+    cursor: pointer;
 }
